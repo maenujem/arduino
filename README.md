@@ -1,5 +1,5 @@
 # Arduino
-collection of helpful Arduino sketches
+This is a collection of helpful Arduino sketches:
 
 ## testNanoPins
 Test for pin soldering (PCB socket pins) for \*duino Nano (other types also possible)
